@@ -40,8 +40,8 @@
 
 ###
 
-<div align="left">
-  <a text-decoration: none href="https://www.instagram.com/valenbarrena/" rel="nofollow">
+<div align="left" text-decoration: none>
+  <a href="https://www.instagram.com/valenbarrena/" rel="nofollow">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="mailto:barrenavalentin@gmail.com" rel="nofollow">
