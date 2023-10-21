@@ -1,7 +1,7 @@
 <h1 align="center" color="yellow">👋🙌Welcome, I’m Valentin Barreña</h1>
 <br>
 <h3 align="left" color="#333">About me:</h3>
-<p> 💻 I'm a Juniors Front-End developer.</p>
+<p color="#333"> 💻 I'm a Juniors Front-End developer.</p>
 <p> 📚 Currently learning Backend to become a Full-Stack developer.</p>
 
 <h3 align="left" color="#333">Languages and Tools:</h3>
