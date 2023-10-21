@@ -41,10 +41,10 @@
 ###
 
 <div align="left" dir="auto">
-  <a text-decoration="none" href="https://www.instagram.com/valenbarrena/" rel="nofollow">
+  <a href="https://www.instagram.com/valenbarrena/" rel="nofollow">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a text-decoration = "none" href="mailto:barrenavalentin@gmail.com" rel="nofollow">
+  <a href="mailto:barrenavalentin@gmail.com" rel="nofollow">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" text-decoration="none"  />
   </a>
   <a href="https://www.linkedin.com/in/valentin-barre%C3%B1a-876449268/" rel="nofollow">
@@ -54,5 +54,12 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
 </div>
+
+<style>
+  /* Estilo para las imágenes dentro de los enlaces */
+  a img {
+    background-color: transparent; /* Puedes usar 'white' en lugar de 'transparent' si prefieres un fondo blanco */
+  }
+</style>
 
 ###
